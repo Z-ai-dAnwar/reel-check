@@ -39,7 +39,7 @@ From transcript + caption, list concretely:
 ## Step 3: Verify before evaluating
 
 AI-influencer content is hype-prone; the video's framing is marketing, not documentation. Before any verdict:
-- **Named repos/tools:** web-search them. Do they exist? Stars/activity? Does the repo actually do what the video claims? A surprising fraction of these videos describe repos inaccurately or promote the creator's own paid product ("link in bio" = sales funnel signal).
+- **Named repos/tools:** web-search them, then OPEN the repo and read its README (and docs/skill files if the claim hinges on a specific feature). Search snippets are marketing summaries - the README is what the tool actually does, and the gap between the two is often the finding (e.g., a video says "vector database" when the repo ships SQLite full-text search). Note stars/activity while you're there. A surprising fraction of these videos describe repos inaccurately or promote the creator's own paid product ("link in bio" = sales funnel signal).
 - **Technical claims:** sanity-check against how the underlying system actually works. If the video claims something about a specific tool the user runs (Claude Code, Cursor, etc.), check against that tool's real capabilities, not the video's description of them.
 
 ## Step 4: The "already have it" check
