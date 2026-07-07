@@ -1,5 +1,9 @@
 # reel-check
 
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Claude Code skill](https://img.shields.io/badge/Claude%20Code-skill-f2a54e.svg)](https://skills.sh/)
+[![Runs locally](https://img.shields.io/badge/runs-local%20%C2%B7%20no%20API%20keys-2ea043.svg)](#what-it-does)
+
 Paste a short-form video link (Instagram reel, TikTok, YouTube/Short) into Claude Code and get back what actually matters: a transcript, a fact-check of what the video claims, and a straight answer on whether the concept is worth implementing in *your* setup.
 
 Built because every existing tool stops at "here's the text." This one answers the real question: **should I do this, and do I already have it?**
